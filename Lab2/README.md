@@ -87,11 +87,12 @@ The electronic signature of the TPP has to be based on a qualified certificate f
 This specification uses on a pure protocol level the following HTTP header in all HTTP requests uniformously for the support of the signature function:
 
 **Request Header**
+
 Attribute | Type | Condition | Descriprion
 :-- | :-- | :-- | :--
-`Digest` | string | conditional | Is contained if and only if the "Signature" element is contained in the header of the request.
-`Signature` | string | conditional | A signature of the request by the TPP on application level.
-`Tpp-Signature-Certificate` | string | conditional | The certificate used for signing the request, in base64 encoding. Must be contained if a signature is contained, see above.
+Digest | string | conditional | Is contained if and only if the "Signature" element is contained in the header of the request.
+Signature | string | conditional | A signature of the request by the TPP on application level.
+Tpp-Signature-Certificate | string | conditional | The certificate used for signing the request, in base64 encoding. Must be contained if a signature is contained, see above.
 
 ### XS2A Interface API Structure
 
