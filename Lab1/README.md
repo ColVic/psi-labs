@@ -17,11 +17,11 @@ Among others [PSD2] contains regulations of new services to be operated by so ca
 
 For operating the new services a TPP needs to access the account of the PSU which is usually managed by another PSP called the Account Servicing Payment Service Provider (ASPSP). As shown in the following figure, an ASPSP has to provide an interface (called "PSD2 compliant Access to Account Interface" or short "XS2A Interface") to its systems to be used by a TPP for necessary accesses regulated by [PSD2]:
 
-![IMAGE](https://i.ibb.co/7kk8BNz/Screen-Shot-2019-12-02-at-21-03-27.png =547x278)
+![IMAGE](https://i.ibb.co/7kk8BNz/Screen-Shot-2019-12-02-at-21-03-27.png)
 
 ## My Solution
 
-![IMAGE](https://i.ibb.co/K9yQ6R1/Screen-Shot-2019-12-02-at-21-01-45.png =892x431)
+![IMAGE](https://i.ibb.co/K9yQ6R1/Screen-Shot-2019-12-02-at-21-01-45.png)
 
 ### Strenghts
 - SaaS (Software as a Service) Model
